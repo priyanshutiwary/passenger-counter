@@ -1,0 +1,100 @@
+body {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/96/1020/desktop-wallpaper-travel-metro-station.jpg");
+    background-size: cover;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+#count-displayed{
+    font-size: 4rem;
+    color: brown;
+}
+#save-el{
+    font-size: 2rem;
+    font-weight: bold;
+    color: darkred;
+}
+#m-line{
+    font-size: 4rem;
+    color: brown;
+}
+
+
+.btn-inc {
+    background: BROWN;
+    background-image: -webkit-linear-gradient(top, BROWN, BLUE);
+    background-image: -moz-linear-gradient(top, BROWN, BLUE);
+    background-image: -ms-linear-gradient(top, BROWN, BLUE);
+    background-image: -o-linear-gradient(top, BROWN, BLUE);
+    background-image: linear-gradient(to bottom, BROWN, BLUE);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: WHITE;
+    font-size: 25px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  .btn-inc:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  .btn-dec {
+    background: BLUE;
+    background-image: -webkit-linear-gradient(top, BLUE, BROWN);
+    background-image: -moz-linear-gradient(top, BLUE, BROWN);
+    background-image: -ms-linear-gradient(top, BLUE, BROWN);
+    background-image: -o-linear-gradient(top, BLUE, BROWN);
+    background-image: linear-gradient(to bottom, BLUE, BROWN);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: WHITE;
+    font-size: 25px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .btn-dec:hover {
+    background: BROWN;
+    background-image: -webkit-linear-gradient(top, BROWN, BROWN);
+    background-image: -moz-linear-gradient(top, BROWN, BROWN);
+    background-image: -ms-linear-gradient(top, BROWN, BROWN);
+    background-image: -o-linear-gradient(top, BROWN, BROWN);
+    background-image: linear-gradient(to bottom, BROWN, BROWN);
+    text-decoration: none;
+  }
+
+  .btn-s {
+    background: BROWN;
+    background-image: -webkit-linear-gradient(top, BROWN, blue);
+    background-image: -moz-linear-gradient(top, BROWN, blue);
+    background-image: -ms-linear-gradient(top, BROWN, blue);
+    background-image: -o-linear-gradient(top, BROWN, blue);
+    background-image: linear-gradient(to bottom, BROWN, blue);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: WHITE;
+    font-size: 25px;
+    padding: 10px 40px 10px 40px;
+    text-decoration: none;
+  }
+  .btn-s:hover {
+    background: GREEN;
+    background-image: -webkit-linear-gradient(top, GREEN, GREEN);
+    background-image: -moz-linear-gradient(top, GREEN, GREEN);
+    background-image: -ms-linear-gradient(top, GREEN, GREEN);
+    background-image: -o-linear-gradient(top, GREEN, GREEN);
+    background-image: linear-gradient(to bottom, GREEN, GREEN);
+    text-decoration: none;
+  }
